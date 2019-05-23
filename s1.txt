@@ -1,0 +1,5 @@
+A: Apples, Apricots, Avocados.
+B: Bananas, Boysenberries, Blueberries, Bing Cherry.
+C: Cherries, Cantaloupe, Crab apples, Clementine, Cucumbers.
+
+D: added fruits
